@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud latest User Manual latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-20 09:09+0000\n"
+"POT-Creation-Date: 2022-07-07 17:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -89,7 +89,7 @@ msgid "In CardBook:"
 msgstr ""
 
 #: ../../groupware/sync_thunderbird.rst:37
-msgid "\"Address book > New Address book **Remote** > Next"
+msgid "Address book > New Address book **Remote** > Next"
 msgstr ""
 
 #: ../../groupware/sync_thunderbird.rst:38
