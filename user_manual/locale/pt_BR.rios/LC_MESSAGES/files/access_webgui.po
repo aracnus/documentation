@@ -1,0 +1,388 @@
+# Copyright (C) 2022 Nextcloud GmbH
+# This file is distributed under the same license as the Nextcloud latest User Manual package.
+#
+# Translators:
+#
+# FABIO <tecnoplace@yahoo.com>, 2020.
+# Paulo Schopf, 2020.
+# Flávio Veras <flaviove@gmail.com>, 2021.
+# Frederico Gonçalves Guimarães <frederico@teia.bio.br>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud latest User Manual latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-20 09:09+0000\n"
+"PO-Revision-Date: 2022-06-19 17:46-0300\n"
+"Last-Translator: Frederico Gonçalves Guimarães <frederico@teia.bio.br>\n"
+"Language-Team: Portuguese <kde-i18n-pt_BR@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: ../../files/access_webgui.rst:3
+msgid "Accessing your files using the Nextcloud Web interface"
+msgstr "Acessar seus arquivos utilizando a interface Web do RIOS"
+
+#: ../../files/access_webgui.rst:5
+msgid ""
+"You can access your Nextcloud files with the Nextcloud Web interface and "
+"create, preview, edit, delete, share, and re-share files. Your Nextcloud "
+"administrator has the option to disable these features, so if any of them "
+"are missing on your system ask your server administrator."
+msgstr ""
+"Você pode acessar seus arquivos com a interface web do RIOS e criar, "
+"visualizar, editar, excluir, compartilhar e re-compartilhar arquivos. O "
+"administrador do RIOS tem a opção de desativar esses recursos. "
+"Portanto, se algum deles estiver faltando no sistema, peça ao "
+"administrador do servidor."
+
+#: ../../files/access_webgui.rst:14
+msgid "Tagging files"
+msgstr "Etiquetar arquivos"
+
+#: ../../files/access_webgui.rst:16
+msgid ""
+"You can assign tags to files. To create tags, open a file to the Details "
+"view. Then type your tags. To enter more than one tag press the return key "
+"after creating each tag. All tags are system tags, and are shared by all "
+"users on your Nextcloud server."
+msgstr ""
+"Você pode atribuir etiquetas aos arquivos e pastas. Para criar as etiquetas, "
+"abra a visualização de detalhes do arquivo/pasta (ícone  \"...\" e opção "
+"\"Detalhes\"). Em seguida, clique no novo ícone \"...\" que aparece ao lado "
+"do nome do arquivo/pasta à direita, selecione \"Etiquetas\" e digite suas "
+"etiquetas. Para inserir mais de uma, pressione a tecla Enter após cada uma "
+"delas. Todas as etiquetas se tornam disponíveis para o sistema e são "
+"compartilhadas por todos os usuários no servidor RIOS."
+
+#: ../../files/access_webgui.rst:24
+msgid "Then use the Tags filter on the left sidebar to filter files by tags:"
+msgstr ""
+"A partir daí, você pode usar o filtro Etiquetas na barra lateral esquerda"
+" para "
+"exibir arquivos baseados em suas etiquetas:"
+
+#: ../../files/access_webgui.rst:30
+msgid "Comments"
+msgstr "Comentários"
+
+#: ../../files/access_webgui.rst:32
+msgid ""
+"Use the Details view to add and read comments on any file or folder. "
+"Comments are visible to everyone who has access to the file:"
+msgstr ""
+"Use a visualização dos Detalhes (ícone  \"...\" e opção \"Detalhes\") para "
+"adicionar e ler comentários em qualquer arquivo ou pasta. Os comentários "
+"são visíveis para todos que têm acesso ao arquivo:"
+
+#: ../../files/access_webgui.rst:39
+msgid "Video player"
+msgstr "Reprodução de vídeos"
+
+#: ../../files/access_webgui.rst:41
+msgid ""
+"You can play videos in Nextcloud with the Video Player app by simply "
+"clicking on the file. Video streaming by the native Nextcloud video player "
+"depends on your Web browser and the video format. If your Nextcloud "
+"administrator has enabled video streaming, and it doesn't work in your Web "
+"browser, it may be a browser issue. See https://developer.mozilla.org/en-"
+"US/docs/Web/HTML/Supported_media_formats#Browser_compatibility for supported"
+" multimedia formats in Web browsers."
+msgstr ""
+"Você pode reproduzir vídeos no Nextcloud com o aplicativo Video Player "
+"simplesmente clicando no arquivo. A transmissão de vídeo pelo reprodutor de "
+"vídeo nativo Nextcloud depende do seu navegador Web e do formato do vídeo. "
+"Se o administrador do Nextcloud ativou a transmissão de vídeo e não funciona"
+" no seu navegador da Web, pode ser um problema no navegador. Consulte "
+"https://developer.mozilla.org/en-"
+"US/docs/Web/HTML/Supported_media_formats#Browser_compatibility para obter os"
+" formatos multimídia suportados nos navegadores da Web."
+
+#: ../../files/access_webgui.rst:50
+msgid "File controls"
+msgstr "Controles de arquivo"
+
+#: ../../files/access_webgui.rst:52
+msgid ""
+"Nextcloud can display thumbnail previews for image files, MP3 covers, and "
+"text files, if this enabled by your server administrator. Hover your cursor "
+"over a file or folder to expose the controls for the following operations:"
+msgstr ""
+"O RIOS pode exibir visualizações em miniatura de arquivos de imagem, "
+"capas de MP3 e arquivos de texto, se isso estiver ativado pelo administrador "
+"do servidor. Clique no ícone \"...\" à direita do arquivo ou pasta para abrir "
+"o menu com os controles para as seguintes operações:"
+
+#: ../../files/access_webgui.rst:63 ../../files/access_webgui.rst:158
+msgid "Favorites"
+msgstr "Adicionar aos favoritos"
+
+#: ../../files/access_webgui.rst:57
+msgid "Click the star to the left of the file icon to mark it as a favorite:"
+msgstr "Clique nessa opção para marcar o arquivo/pasta como favorito."
+
+#: ../../files/access_webgui.rst:62
+msgid ""
+"You can also quickly find all of your favorites with the Favorites filter on"
+" the left sidebar."
+msgstr ""
+"Você pode encontrar rapidamente todos os seus favoritos usando a opção "
+"\"Favoritos\", disponível no painel lateral esquerdo."
+
+#: ../../files/access_webgui.rst:72
+msgid "Overflow Menu"
+msgstr "Menu flutuante"
+
+#: ../../files/access_webgui.rst:66
+msgid ""
+"The Overflow menu (three dots) displays file details, and allows you to "
+"rename, download, or delete files:"
+msgstr ""
+"O menu flutuante (três pontos) exibe os detalhes do arquivo e permite que "
+"você renomeie, baixe ou exclua arquivos: "
+
+#: ../../files/access_webgui.rst:72
+msgid "The Details view shows Activities, Sharing, and Versions information:"
+msgstr ""
+"A visualização Detalhes mostra informações sobre Atividades, "
+"Compartilhamento e Versões: "
+
+#: ../../files/access_webgui.rst:77
+msgid ""
+"The **Settings** gear icon at the lower left allows you to show or hide "
+"hidden files in your Nextcloud Web interface. These are also called "
+"dotfiles, because they are prefixed with a dot, e.g. ``.mailfile``. The dot "
+"tells your operating system to hide these files in your file browsers, "
+"unless you choose to display them. Usually these are configuration files, so"
+" having the option to hide them reduces clutter."
+msgstr ""
+"O ícone de engrenagem **Configurações** no canto inferior esquerdo permite "
+"ocultar ou mostrar arquivos ocultos na interface Web do Nextcloud. Esses "
+"também são chamados de arquivos de ponto, porque são prefixados com um "
+"ponto, por exemplo `` .mailfile``. O ponto indica ao sistema operacional "
+"para ocultar esses arquivos nos navegadores de arquivos, a menos que você "
+"escolha exibi-los. Geralmente, esses são arquivos de configuração, portanto,"
+" ter a opção de ocultá-los reduz a confusão."
+
+#: ../../files/access_webgui.rst:88
+msgid "Previewing files"
+msgstr "Visualizar arquivos"
+
+#: ../../files/access_webgui.rst:90
+msgid ""
+"You can display uncompressed text files, OpenDocument files, videos, and "
+"image files in the Nextcloud embedded viewers by clicking on the file name. "
+"There may be other file types you can preview if your Nextcloud "
+"administrator has enabled them. If Nextcloud cannot display a file, it "
+"starts a download process and downloads the file to your computer."
+msgstr ""
+"Você pode exibir arquivos de texto não compactados, arquivos OpenDocument, "
+"vídeos e arquivos de imagem nos visualizadores incorporados do Nextcloud, "
+"clicando no nome do arquivo. Pode haver outros tipos de arquivo que você "
+"pode visualizar se o administrador do Nextcloud os tiver ativado. Se o "
+"Nextcloud não puder exibir um arquivo, ele inicia um processo de download e "
+"baixa o arquivo no seu computador."
+
+#: ../../files/access_webgui.rst:97
+msgid "Navigating inside your Nextcloud"
+msgstr "Navegar pelo RIOS"
+
+#: ../../files/access_webgui.rst:99
+msgid ""
+"Navigating through folders in Nextcloud is as simple as clicking on a folder"
+" to open it and using the back button on your browser to move to a previous "
+"level. Nextcloud also provides a navigation bar at the top of the Files "
+"field for quick navigation."
+msgstr ""
+"Navegar pelas pastas no RIOS é muito simples: basta clicar em uma pasta "
+"para abri-la e usar o botão voltar no seu navegador para retornar ao nível "
+"anterior. O RIOS também fornece uma barra de navegação na parte "
+"superior da tela dos Arquivos, para uma navegação rápida."
+
+#: ../../files/access_webgui.rst:105
+msgid "Sharing status icons"
+msgstr "Ícones de status do compartilhamento"
+
+#: ../../files/access_webgui.rst:107
+msgid ""
+"Any folder that has been shared is marked with the ``Shared`` overlay icon. "
+"Public link shares are marked with a chain link. Unshared folders are not "
+"marked:"
+msgstr ""
+"Qualquer pasta compartilhada é marcada com o ícone de sobreposição "
+"``Compartilhado``. Os compartilhamentos de links públicos são marcados com "
+"um elo de corrente. As pastas não compartilhadas não são marcadas: "
+
+#: ../../files/access_webgui.rst:114
+msgid "Creating or uploading files and directories"
+msgstr "Criar ou enviar arquivos e diretórios"
+
+#: ../../files/access_webgui.rst:116
+msgid ""
+"Upload or create new files or folders directly in a Nextcloud folder by "
+"clicking on the *New* button in the Files app:"
+msgstr ""
+"Envie ou crie novos arquivos ou pastas diretamente em uma pasta do RIOS, "
+"clicando no botão *Novo* no aplicativo Arquivos:"
+
+#: ../../files/access_webgui.rst:122
+msgid "The *New* button provides the following options:"
+msgstr "O botão *Novo* fornece as seguintes opções:"
+
+#: ../../files/access_webgui.rst:126
+msgid "Up arrow"
+msgstr "Enviar arquivo"
+
+#: ../../files/access_webgui.rst:125
+msgid ""
+"Upload files from your computer into Nextcloud. You can also upload files by"
+" dragging and dropping them from your file manager."
+msgstr ""
+"Envia arquivos do seu computador para o Nextcloud. Você também pode "
+"enviar arquivos, arrastando-os do seu gerenciador de arquivos e soltando-os "
+"na tela do RIOS."
+
+#: ../../files/access_webgui.rst:129
+msgid "Text file"
+msgstr "Novo documento de texto"
+
+#: ../../files/access_webgui.rst:129
+msgid "Creates a new text file and adds the file to your current folder."
+msgstr "Cria um novo arquivo de texto e o adiciona à sua pasta atual."
+
+#: ../../files/access_webgui.rst:132
+msgid "Folder"
+msgstr "Nova pasta"
+
+#: ../../files/access_webgui.rst:132
+msgid "Creates a new folder in the current folder."
+msgstr "Cria uma nova pasta na pasta atual."
+
+#: ../../files/access_webgui.rst:135
+msgid "Selecting files or folders"
+msgstr "Selecionar arquivos ou pastas"
+
+#: ../../files/access_webgui.rst:137
+msgid ""
+"You can select one or more files or folders by clicking on their checkboxes."
+" To select all files in the current directory, click on the checkbox located"
+" at the top of the files listing."
+msgstr ""
+"Você pode selecionar um ou mais arquivos e pastas clicando nas caixas de "
+"seleção localizadas à esquerda do nome deles. Para selecionar todos os "
+"arquivos e pastas da pasta atual, clique na caixa de seleção localizada na "
+"parte superior da lista de arquivos/pastas."
+
+#: ../../files/access_webgui.rst:141
+msgid ""
+"When you select multiple files, you can delete all of them, or download them"
+" as a ZIP file by using the ``Delete`` or ``Download`` buttons that appear "
+"at the top."
+msgstr ""
+"Ao selecionar vários arquivos, você pode excluir todos eles ou baixá-los "
+"como um arquivo ZIP usando os botões \"Excluir\" ou \"Baixar\" que aparecem "
+"na parte superior."
+
+#: ../../files/access_webgui.rst:145
+msgid ""
+"If the ``Download`` button is not visible, the administrator has disabled "
+"this feature."
+msgstr ""
+"Se o botão \"Download\" não estiver visível, o administrador desativou esse "
+"recurso."
+
+#: ../../files/access_webgui.rst:149
+msgid "Filtering the files view"
+msgstr "Filtros de visualização de arquivos"
+
+#: ../../files/access_webgui.rst:151
+msgid ""
+"The left sidebar on the Files page contains several filters for quickly "
+"sorting and managing your files."
+msgstr ""
+"O painel lateral esquerdo na página Arquivos contém vários filtros para "
+"ordenar e gerenciar rapidamente seus arquivos."
+
+#: ../../files/access_webgui.rst:155
+msgid "All files"
+msgstr "Todos os arquivos"
+
+#: ../../files/access_webgui.rst:155
+msgid "The default view; displays all files that you have access to."
+msgstr ""
+"A visualização padrão. Exibe todos os arquivos aos quais você tem acesso."
+
+#: ../../files/access_webgui.rst:158
+msgid "Files or folders marked with the yellow star."
+msgstr "Arquivos ou pastas marcados como favoritos (estrela amarela)."
+
+#: ../../files/access_webgui.rst:161
+msgid "Shared with you"
+msgstr "Compartilhado com você"
+
+#: ../../files/access_webgui.rst:161
+msgid "Displays all files shared with you by another user or group."
+msgstr ""
+"Exibe todos os arquivos que outros usuários ou grupos compartilharam com você."
+
+#: ../../files/access_webgui.rst:164
+msgid "Shared with others"
+msgstr "Compartilhado com outros"
+
+#: ../../files/access_webgui.rst:164
+msgid "Displays all files that you have shared with other users or groups."
+msgstr ""
+"Exibe todos os arquivos que você compartilhou com outros usuários ou grupos."
+
+#: ../../files/access_webgui.rst:167
+msgid "Shared by link"
+msgstr "Compartilhado por link"
+
+#: ../../files/access_webgui.rst:167
+msgid "Displays all files that are shared by you via public link."
+msgstr ""
+"Exibe todos os arquivos compartilhados por você por meio de link público."
+
+#: ../../files/access_webgui.rst:171
+msgid "External Storage (optional)"
+msgstr "Armazenamento externo (opcional)"
+
+#: ../../files/access_webgui.rst:170
+msgid ""
+"Files that you have access to on external storage devices and services such "
+"as Amazon S3, SMB/CIFS, FTP…"
+msgstr ""
+"Arquivos aos quais você tem acesso em dispositivos e serviços de "
+"armazenamento externos, como Amazon S3, SMB/CIFS, FTP..."
+
+#: ../../files/access_webgui.rst:174
+msgid "Moving files"
+msgstr "Movendo arquivos"
+
+#: ../../files/access_webgui.rst:176
+msgid ""
+"You can move files and folders by dragging and dropping them into any "
+"directory."
+msgstr ""
+"Você pode mover arquivos e pastas arrastando-os e soltando-os em "
+"qualquer outra pasta."
+
+#: ../../files/access_webgui.rst:179
+msgid "Creating or connecting to a Federation Share link"
+msgstr "Criando ou conectando-se a um link de Compartilhamento Federado"
+
+#: ../../files/access_webgui.rst:181
+msgid ""
+"Federated Cloud Sharing allows you to mount file shares from remote "
+"Nextcloud servers, and manage them just like a local share. See "
+":doc:`federated_cloud_sharing` to learn to how to create and connect to new "
+"Federated Cloud shares."
+msgstr ""
+"O Compartilhamento de Nuvem Federada permite montar compartilhamentos de "
+"arquivos de servidores remotos Nextcloud e gerenciá-los como um "
+"compartilhamento local. Consulte :doc: `federated_cloud_sharing` para "
+"aprender como criar e conectar-se a novos compartilhamentos de Nuvem "
+"Federada."

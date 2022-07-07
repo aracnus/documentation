@@ -1,0 +1,41 @@
+# Copyright (C) 2021 Nextcloud GmbH
+# This file is distributed under the same license as the Nextcloud latest User Manual package.
+#
+# Translators:
+#
+# Rodrigo de Almeida Sottomaior Macedo <rmsolucoeseminformatica@protonmail.com>, 2021.
+# Frederico Gonçalves Guimarães <frederico@teia.bio.br>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud latest User Manual latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-30 18:32+0200\n"
+"PO-Revision-Date: 2022-03-11 15:28-0300\n"
+"Last-Translator: Frederico Gonçalves Guimarães <frederico@teia.bio.br>\n"
+"Language-Team: Portuguese <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: ../../talk/index.rst:3
+msgid "Talk"
+msgstr "Conversar"
+
+#: ../../talk/index.rst:5
+msgid ""
+"Nextcloud Talk offers audio/video and text chat integrated in Nextcloud. It "
+"offers a web interface as well as mobile apps."
+msgstr ""
+"RIOS Talk oferece chat de áudio/vídeo e texto integrado em RIOS. "
+"Ele oferece uma interface web e também aplicativos móveis."
+
+#: ../../talk/index.rst:8
+msgid ""
+"You can find out more about Nextcloud Talk `on our website "
+"<https://nextcloud.com/talk/>`_."
+msgstr ""
+"Você pode descobrir mais sobre RIOS Talk `em nosso site "
+"<https://RIOS.com/talk/>`_."
